@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>141892794866-esf3s9of7jbr5isjgja143a8ultafafo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.141892794866-esf3s9of7jbr5isjgja143a8ultafafo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBnIgKh5N8GM0vD50_y30jZqdkqBAS7THU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>141892794866</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>-.LuoCarolynFinalProject</string>
+	<key>PROJECT_ID</key>
+	<string>crystal-bakery-3d216</string>
+	<key>STORAGE_BUCKET</key>
+	<string>crystal-bakery-3d216.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:141892794866:ios:f464ab22cfaeda0316536b</string>
+</dict>
+</plist>
